@@ -5,9 +5,9 @@ Donate link: https://www.patreon.com/littlebizzy
 Tags: disable, remove, jquery, javascript, migrate
 Requires at least: 4.4
 Tested up to: 4.9
-Requires PHP: 7.0
+Requires PHP: 7.2
 Multisite support: No
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Prefix: DSJQMG
@@ -158,7 +158,13 @@ Please avoid leaving negative reviews in order to get a feature implemented. Ins
 
 == Changelog ==
 
+= 1.1.0 =
+* restructured plugin with latest LittleBizzy PBP (8/2018)
+* tested with PHP 7.1
+* tested with PHP 7.2
+
 = 1.0.0 =
 * initial release
-* uses PHP namespaces
-* object oriented code
+* tested with PHP 7.0
+* plugin uses PHP namespaces
+* plugin uses object-oriented codebase
