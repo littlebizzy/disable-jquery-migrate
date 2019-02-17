@@ -1,0 +1,16 @@
+{
+    "name": "littlebizzy/disable-jquery-migrate",
+    "type": "wordpress-plugin",
+    "license": "GPLv3",
+    "homepage": "https://www.littlebizzy.com/plugins/disable-jquery-migrate",
+    "description": "Easily prevent the jQuery migrate script that is included with WordPress core from being loaded to slim down source code (for advanced users only).",
+    "keywords": ["wordpress","plugin","disable","remove","hide","block","prevent","jquery","migrate","code","loading","header"],
+    "support": {
+        "issues": "https://github.com/littlebizzy/disable-jquery-migrate/issues",
+        "forum": "https://www.littlebizzy.com/members"
+    }
+    "require": {
+        "php": "^7.2",
+        "composer/installers": "~1.0"
+    }
+}
